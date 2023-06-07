@@ -19,6 +19,7 @@
                 <input type="text" name="word" id="word">
                 <button type="submit">SUBMIT</button>
             </div>
+            <button type="submit">REPLACE ENGLISH BADWORDS</button>
         </form>        
     </main>
 </body>
